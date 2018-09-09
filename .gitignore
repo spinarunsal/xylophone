@@ -1,0 +1,11 @@
+#ignore user preferences info
+.DS_Store
+
+Xylophone.xcodeproj/project.xcworkspace/xcuserdata/angelayu.xcuserdatad/UserInterfaceState.xcuserstate
+Xylophone.xcodeproj/xcuserdata/angelayu.xcuserdatad/xcschemes/xcschememanagement.plist
+Xylophone.xcodeproj/project.xcworkspace/xcuserdata/a1.xcuserdatad/UserInterfaceState.xcuserstate
+Xylophone.xcodeproj/project.xcworkspace/xcuserdata/pinarunsal.xcuserdatad/UserInterfaceState.xcuserstate
+Xylophone.xcodeproj/xcuserdata/a1.xcuserdatad/xcschemes/Xylophone.xcscheme
+Xylophone.xcodeproj/xcuserdata/a1.xcuserdatad/xcschemes/xcschememanagement.plist
+Xylophone.xcodeproj/xcuserdata/pinarunsal.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+Xylophone.xcodeproj/xcuserdata/pinarunsal.xcuserdatad/xcschemes/xcschememanagement.plist
